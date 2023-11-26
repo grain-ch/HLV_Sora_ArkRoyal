@@ -1,0 +1,7 @@
+<BSA009_Ark_Royal_1941_Stern.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/HLV_Sora_ArkRoyal_Mod/BSA518_Ark_Royal/ship/lods/BSA009_Ark_Royal_1941_Stern_lod1	</parent>
+	<extent>	12.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Sora_ArkRoyal_Mod/BSA518_Ark_Royal/ship/BSA009_Ark_Royal_1941_Stern	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BSA009_Ark_Royal_1941_Stern.model>

@@ -1,0 +1,7 @@
+<BAB703_Fairey_Swordfish_proto_lod1.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/HLV_Sora_ArkRoyal_Mod/BSA518_Ark_Royal/aircraft/lods/BAB703_Fairey_Swordfish_proto_lod2	</parent>
+	<extent>	8.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Sora_ArkRoyal_Mod/BSA518_Ark_Royal/aircraft/lods/BAB703_Fairey_Swordfish_proto_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BAB703_Fairey_Swordfish_proto_lod1.model>

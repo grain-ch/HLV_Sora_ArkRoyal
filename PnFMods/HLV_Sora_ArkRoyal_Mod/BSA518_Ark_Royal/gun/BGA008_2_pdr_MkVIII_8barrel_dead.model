@@ -1,0 +1,7 @@
+<BGA008_2_pdr_MkVIII_8barrel_dead.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Sora_ArkRoyal_Mod/BSA518_Ark_Royal/gun/lods/BGA008_2_pdr_MkVIII_8barrel_dead_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Sora_ArkRoyal_Mod/BSA518_Ark_Royal/gun/BGA008_2_pdr_MkVIII_8barrel_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGA008_2_pdr_MkVIII_8barrel_dead.model>

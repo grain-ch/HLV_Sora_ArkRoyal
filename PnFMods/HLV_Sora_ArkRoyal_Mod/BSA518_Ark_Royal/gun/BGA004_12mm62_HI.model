@@ -1,0 +1,7 @@
+<BGA004_12mm62_HI.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Sora_ArkRoyal_Mod/BSA518_Ark_Royal/gun/lods/BGA004_12mm62_HI_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Sora_ArkRoyal_Mod/BSA518_Ark_Royal/gun/BGA004_12mm62_HI	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGA004_12mm62_HI.model>
