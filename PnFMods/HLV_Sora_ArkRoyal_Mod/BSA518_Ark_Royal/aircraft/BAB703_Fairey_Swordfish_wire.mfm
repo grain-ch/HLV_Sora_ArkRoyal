@@ -1,6 +1,5 @@
 <BAB703_Fairey_Swordfish_wire.mfm>
 	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
-	<materialKind>	0	</materialKind>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
 		<Texture>	PnFMods/HLV_Sora_ArkRoyal_Mod/BSA518_Ark_Royal/aircraft/BAB703_Fairey_Swordfish_a.dds	</Texture>
